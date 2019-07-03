@@ -26,4 +26,3 @@ The Github team recently put [this Personal website generator](https://github.de
 ## 🤔 Conclusion
 
 I'm pretty stoked to find something this low maintenance setup from Github (thanks guys & girls), hopefully it will serve as a nice incentive to get more content out there.
-
