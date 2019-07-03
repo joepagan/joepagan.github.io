@@ -30,6 +30,7 @@ projects:
       - webpack-criticaljs-issue-example
       - webpack-copywebpackplugin-glob-issue
       - Lemonstand-V1-Forum-Community-Support-Topics
+      - data-uri-images
     # - repo-name
 
 social_media:
