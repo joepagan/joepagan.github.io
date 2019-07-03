@@ -26,6 +26,9 @@ projects:
     archived: false
     forks: true
     projects:
+      - webpack4-webpackdashboard-example
+      - webpack-criticaljs-issue-example
+      - webpack-copywebpackplugin-glob-issue
     # - repo-name
 
 social_media:

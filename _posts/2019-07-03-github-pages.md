@@ -17,4 +17,4 @@ Not bad eh? Using Jekyll to do this magic, really nice that it's just in markdow
 
 ## 🐙 Github made a nice generator
 
-The Github team recently put [this generator together](https://github.dev/) which is really simple to setup, looks modern and professional, it pulls in things from my github profile automatically, awesome!
+The Github team recently put [this generator together](https://github.dev/) which is really simple to setup, looks modern and professional, it pulls in things from my Github profile automatically, awesome!
