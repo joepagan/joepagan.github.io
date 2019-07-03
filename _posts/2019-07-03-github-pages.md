@@ -1,5 +1,5 @@
 ---
-title: "Out with the old (website), in with the Github pages!"
+title: "Out with the old (website) in with the new (Github pages)!"
 published: true
 ---
 
