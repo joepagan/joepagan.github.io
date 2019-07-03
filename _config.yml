@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
@@ -29,6 +29,7 @@ projects:
       - webpack4-webpackdashboard-example
       - webpack-criticaljs-issue-example
       - webpack-copywebpackplugin-glob-issue
+      - Lemonstand-V1-Forum-Community-Support-Topics
     # - repo-name
 
 social_media:
